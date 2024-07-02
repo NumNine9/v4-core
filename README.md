@@ -1,5 +1,7 @@
 # Uniswap v4 Core Project
 
+https://docs.uniswap.org/sdk/v3/guides/local-development
+
 [![Lint](https://github.com/Uniswap/v4-core/actions/workflows/lint.yml/badge.svg)](https://github.com/Uniswap/v4-core/actions/workflows/lint.yml)
 [![Tests](https://github.com/Uniswap/v4-core/actions/workflows/tests-merge.yml/badge.svg)](https://github.com/Uniswap/v4-core/actions/workflows/tests-merge.yml)
 
